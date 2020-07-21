@@ -6,4 +6,4 @@ for item in word:
     print(is_palindrom(item))
     
     
-    check
+    
