@@ -5,3 +5,5 @@ word =["kajak", "ala", "abba", "rower"]
 for item in word:
     print(is_palindrom(item))
     
+    
+    check
